@@ -1,0 +1,10 @@
+name: OfflineClaimProtection
+main: OfflineClaimProtection.OCP
+author: GungnirIncarnate
+version: 0.0.1
+depend: [GriefPreventionPlus]
+prefix: OCP
+commands:
+  clearentrytrust:
+    usage: /clearentrytrust
+    description: clear all entry trust lists.
